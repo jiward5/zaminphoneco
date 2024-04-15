@@ -1,0 +1,97 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 14 Apr 2024 02:12:25 at https://preview.naapo.net/sanok/demo5/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.naapo.net/sanok/demo5/ -O1 "C:\Users\jiwar\Desktop\cln2\zamin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:14:02	Warning: 	Moved Permanently for preview.naapo.net/robots.txt
+02:14:02	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/robots.txt and https://preview.naapo.net/robots.txt
+02:14:02	Warning: 	Warning moved treated for preview.naapo.net/robots.txt (real one is https://preview.naapo.net/robots.txt)
+02:14:03	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/amazing-books/
+02:14:03	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/amazing-books/ and https://preview.naapo.net/sanok/demo5/portfolio/amazing-books/
+02:14:03	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/amazing-books/ to https://preview.naapo.net/sanok/demo5/portfolio/amazing-books/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/clean-iwatch/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/clean-iwatch/ and https://preview.naapo.net/sanok/demo5/portfolio/clean-iwatch/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/clean-iwatch/ to https://preview.naapo.net/sanok/demo5/portfolio/clean-iwatch/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/sanok-lettering/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/sanok-lettering/ and https://preview.naapo.net/sanok/demo5/portfolio/sanok-lettering/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/sanok-lettering/ to https://preview.naapo.net/sanok/demo5/portfolio/sanok-lettering/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/apple-iphone/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/apple-iphone/ and https://preview.naapo.net/sanok/demo5/portfolio/apple-iphone/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/apple-iphone/ to https://preview.naapo.net/sanok/demo5/portfolio/apple-iphone/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/sanok-tree/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/sanok-tree/ and https://preview.naapo.net/sanok/demo5/portfolio/sanok-tree/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/sanok-tree/ to https://preview.naapo.net/sanok/demo5/portfolio/sanok-tree/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/apple-ipad/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/apple-ipad/ and https://preview.naapo.net/sanok/demo5/portfolio/apple-ipad/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/apple-ipad/ to https://preview.naapo.net/sanok/demo5/portfolio/apple-ipad/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/sanok-ipad-pro/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/sanok-ipad-pro/ and https://preview.naapo.net/sanok/demo5/portfolio/sanok-ipad-pro/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/sanok-ipad-pro/ to https://preview.naapo.net/sanok/demo5/portfolio/sanok-ipad-pro/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/apple-imac/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/apple-imac/ and https://preview.naapo.net/sanok/demo5/portfolio/apple-imac/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/apple-imac/ to https://preview.naapo.net/sanok/demo5/portfolio/apple-imac/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/fold-brochure-mockup/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/fold-brochure-mockup/ and https://preview.naapo.net/sanok/demo5/portfolio/fold-brochure-mockup/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/fold-brochure-mockup/ to https://preview.naapo.net/sanok/demo5/portfolio/fold-brochure-mockup/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/monochrome-crooked-jetty/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/monochrome-crooked-jetty/ and https://preview.naapo.net/sanok/demo5/portfolio/monochrome-crooked-jetty/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/monochrome-crooked-jetty/ to https://preview.naapo.net/sanok/demo5/portfolio/monochrome-crooked-jetty/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/bottle-mockup/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/bottle-mockup/ and https://preview.naapo.net/sanok/demo5/portfolio/bottle-mockup/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/bottle-mockup/ to https://preview.naapo.net/sanok/demo5/portfolio/bottle-mockup/
+02:14:05	Warning: 	Moved Permanently for preview.naapo.net/sanok/demo5/portfolio/dark-forest/
+02:14:05	Warning: 	Redirected link is identical because of 'URL Hack' option: preview.naapo.net/sanok/demo5/portfolio/dark-forest/ and https://preview.naapo.net/sanok/demo5/portfolio/dark-forest/
+02:14:05	Warning: 	File has moved from preview.naapo.net/sanok/demo5/portfolio/dark-forest/ to https://preview.naapo.net/sanok/demo5/portfolio/dark-forest/
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/icons/credit-cards/visa.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/icons/credit-cards/mastercard.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/icons/credit-cards/laser.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/icons/credit-cards/diners.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/icons/credit-cards/maestro.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/icons/credit-cards/jcb.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/icons/credit-cards/amex.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/icons/credit-cards/discover.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/images/ajax-loader@2x.gif (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/img/shopping-bag.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/img/woo-sucess.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/sanok-woocommerce.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/ytp-regular.eot (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/css/mb.YTPlayer.css?ver=6.4.4)
+02:14:16	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/grabbing.png (from https://preview.naapo.net/sanok/demo5/wp-content/themes/sanok/style.css?ver=1.0)
+02:14:18	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=290
+02:14:18	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=290 to https://preview.naapo.net/sanok/demo5/blog/
+02:14:36	Error: 	"Not Found" (404) at link https://preview.treethemes.com/sanok/demo5/wp-content/uploads/sites/18/2021/05/coffeepost-1.jpg (from https://preview.naapo.net/sanok/demo5/blog/)
+02:14:37	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=92
+02:14:37	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=92 to https://preview.naapo.net/sanok/demo5/2021/05/14/post-with-gallery/
+02:14:38	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=90
+02:14:38	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=90 to https://preview.naapo.net/sanok/demo5/2021/05/14/we-love-photography/
+02:14:38	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=88
+02:14:38	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=88 to https://preview.naapo.net/sanok/demo5/2021/05/14/woman-enjoying-ride/
+02:14:38	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=85
+02:14:38	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=85 to https://preview.naapo.net/sanok/demo5/2021/05/14/soundcloud-audio-post/
+02:14:38	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=82
+02:14:38	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=82 to https://preview.naapo.net/sanok/demo5/2021/05/14/nature-makes-you-happy/
+02:14:38	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=79
+02:14:38	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=79 to https://preview.naapo.net/sanok/demo5/2021/05/14/quote/
+02:14:38	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=77
+02:14:38	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=77 to https://preview.naapo.net/sanok/demo5/2021/05/14/is-time-to-coffee/
+02:14:38	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=73
+02:14:38	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=73 to https://preview.naapo.net/sanok/demo5/2021/05/14/beauty-of-nature/
+02:14:38	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=65
+02:14:38	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=65 to https://preview.naapo.net/sanok/demo5/2021/05/14/magazines-on-a-desk/
+02:14:48	Error: 	"Not Found" (404) at link https://preview.naapo.net/sanok/demo5/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/images/ajx_loading.gif (from https://preview.naapo.net/sanok/demo5/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/css/lightbox.min.css?ver=7.5.1)
+02:14:48	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=1
+02:14:48	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=1 to https://preview.naapo.net/sanok/demo5/2021/05/18/hello-world/
+02:14:48	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=63
+02:14:48	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=63 to https://preview.naapo.net/sanok/demo5/2021/05/14/audio-media-library/
+02:14:48	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=61
+02:14:48	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=61 to https://preview.naapo.net/sanok/demo5/2021/05/14/books/
+02:14:48	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=59
+02:14:48	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=59 to https://preview.naapo.net/sanok/demo5/2021/05/14/on-top-of-the-world/
+02:14:48	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=9
+02:14:48	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=9 to https://preview.naapo.net/sanok/demo5/2021/05/14/looking-into-the-sea/
+02:14:48	Warning: 	Moved Permanently for https://preview.naapo.net/sanok/demo5/?p=6
+02:14:48	Warning: 	File has moved from https://preview.naapo.net/sanok/demo5/?p=6 to https://preview.naapo.net/sanok/demo5/2021/05/13/downhill-forest/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 23 seconds : 372 links scanned, 327 files written (19278739 bytes overall), 328 files updated [9605369 bytes received at 67170 bytes/sec], 14236435 bytes transferred using HTTP compression in 222 files, ratio 29%, 25.6 requests per connection
+(15 errors, 71 warnings, 0 messages)
